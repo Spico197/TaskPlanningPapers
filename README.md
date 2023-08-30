@@ -1,4 +1,4 @@
-# 🥅 TaskPlanningPapers
+# 🥅 Task Planning Papers
 
 A collection of task planning papers.
 
